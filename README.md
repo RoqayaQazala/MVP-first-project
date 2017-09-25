@@ -1,4 +1,3 @@
-# MVP-first-project
 Project Name
 
 Heading
