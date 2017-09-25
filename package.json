@@ -1,0 +1,19 @@
+{
+  "name": "roro",
+  "version": "1.0.0",
+  "description": "<!-- \r > This material was originally posted [here](http://www.quora.com/What-is-Amazons-approach-to-product-development-and-product-management). It is reproduced here for posterities sake.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoqayaQazala/MVP-first-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RoqayaQazala/MVP-first-project/issues"
+  },
+  "homepage": "https://github.com/RoqayaQazala/MVP-first-project#readme"
+}
